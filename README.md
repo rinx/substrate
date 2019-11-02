@@ -1,7 +1,7 @@
 # substrate
 [![LICENSE](https://img.shields.io/github/license/rinx/substrate)](https://github.com/rinx/substrate/blob/master/LICENSE)
 [![release](https://img.shields.io/github/v/release/rinx/substrate)](https://github.com/rinx/substrate/releases)
-[![Clojars Project](https://clojars.org/substrate/lein-template/latest-version.svg)](https://clojars.org/substrate/lein-template)
+[![Clojars Project](https://img.shields.io/clojars/v/substrate/lein-template.svg)](https://clojars.org/substrate/lein-template)
 
 A Leiningen template for basic Clojure WebAPI project using Sierra's component, Compojure, and http-kit.
 
